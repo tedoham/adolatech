@@ -1,2 +1,0 @@
-# adolatech
-our website adolatech
